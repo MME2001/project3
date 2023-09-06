@@ -1,6 +1,7 @@
 # project3
 Project for connection sql to python  - Power bi
 
+ thisproject  speaks about loan and rates that influnce  
 qustions:
 # 1-what is the most number repeated in the installment?
 # 2-what is the maximum of installment?
